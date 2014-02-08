@@ -3,7 +3,7 @@ Contributors: afo
 Donate link: http://afoweb.zxq.net
 Tags: contact, email, phone, address, second mail option
 Requires at least: 2.0.2
-Tested up to: 3.2.1
+Tested up to: 3.8.1
 Stable tag: 4.3
 
 With this plugin you can put phone no, email and address information of yours in the wordpress theme.
