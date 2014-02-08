@@ -1,6 +1,6 @@
 === contact info ===
 Contributors: afo
-Donate link: http://afoweb.zxq.net
+Donate link: #
 Tags: contact, email, phone, address, second mail option
 Requires at least: 2.0.2
 Tested up to: 3.8.1
