@@ -1,5 +1,5 @@
 === contact info ===
-Contributors: afo
+Contributors: avimegladon
 Donate link: http://donateafo.net84.net/
 Tags: contact, email, phone, address, second mail option
 Requires at least: 2.0.2
