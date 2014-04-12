@@ -4,7 +4,7 @@ Plugin Name: Contact Info
 Plugin URI: http://afoweb.zxq.net/
 Description: This Plugin will allow the admin to update the contact information. This includes phone no, email address, and address.
 Version: 1.1a
-Author: AFO 
+Author: avimegladon 
 Author URI: http://afoweb.zxq.net/
 */	
 
