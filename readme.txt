@@ -4,17 +4,17 @@ Donate link: http://donateafo.net84.net/
 Tags: contact, email, phone, address, second mail option
 Requires at least: 2.0.2
 Tested up to: 3.8.1
-Stable tag: 4.3
+Stable tag: 2.1a
 
 With this plugin you can put phone no, email and address information of yours in the wordpress theme.
 
 == Description ==
 
-For Phone No : echo get_option('cph');
-For Mail Address : echo get_option('cmail');
-For Address/Any Text : echo get_option('cmod');
+This plugin automatically allows you to write shortcodes to wordpress text widgets.
 
-This email address can also be used as a second mail address in wordpress.you can use this mail address to send mail to admin when a visitor of your site submits a contact form or any other type of form which fires a mail.To use this plugin a second mail address option. Just send the this mail address as a hidden field in your form and then receive the value in your mail submission page.
+For Phone No :</strong> <strong>&lt;?php echo ci("phone"); ?&gt;</strong> Or Shortcode <strong>[ci show="phone"]</strong><br />
+<strong>For Email Address :</strong> <strong>&lt;?php echo ci("email");?&gt;</strong> Or Shortcode <strong>[ci show="email"]</strong><br />
+<strong>For Address/Any Text :</strong> <strong>&lt;?php echo ci("address");?&gt; </strong> Or Shortcode <strong>[ci show="address"]</strong></p>
 
 how to use information is also available is plugin admin section.
 
@@ -29,9 +29,8 @@ how to use information is also available is plugin admin section.
 
 = For any kind of problem =
 
-Please email me avi.megladon@gmail.com. My site is http://afoweb.zxq.net
-
-
+1. Please email me avi.megladon@gmail.com. My site is http://avifoujdar.wordpress.com/contact/ 
+2. Or you can write comments directly to my plugins page. Please visit here http://avifoujdar.wordpress.com/2014/02/13/login-widget/
 
 
 == Screenshots ==
