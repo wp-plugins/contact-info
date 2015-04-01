@@ -1,5 +1,5 @@
 === contact info ===
-Contributors: aviplugins.com
+Contributors: avimegladon
 Donate link: http://donateafo.net84.net/
 Tags: contact, email, phone, address, second mail option, info, address info, contact info, mail
 Requires at least: 2.0.2
