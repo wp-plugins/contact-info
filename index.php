@@ -4,7 +4,7 @@ Plugin Name: Contact Info
 Plugin URI: http://avifoujdar.wordpress.com/category/my-wp-plugins/
 Description: This Plugin will allow the admin user to update the contact information and display them using functions and shortcodes. This includes Phone no, Email, and Address.
 Version: 2.1a
-Author: avimegladon 
+Author: aviplugins.com 
 Author URI: avifoujdar.wordpress.com/
 */	
 
